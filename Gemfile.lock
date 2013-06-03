@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    shoulda-reuse_setup (0.0.0)
+    shoulda-reuse_setup (0.0.1)
       shoulda
 
 GEM
