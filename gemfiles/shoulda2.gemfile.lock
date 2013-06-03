@@ -1,0 +1,27 @@
+PATH
+  remote: /Users/mgrosser/code/tools/shoulda-reuse_setup
+  specs:
+    shoulda-reuse_setup (0.0.0)
+      shoulda
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    appraisal (0.5.2)
+      bundler
+      rake
+    bump (0.4.2)
+    rake (10.0.4)
+    shoulda (2.11.3)
+    test-unit (2.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  appraisal
+  bump
+  rake
+  shoulda (~> 2.11)
+  shoulda-reuse_setup!
+  test-unit (>= 2.5.1)
